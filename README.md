@@ -1,0 +1,1 @@
+# LifeStyleStore_Automation---Cypress
